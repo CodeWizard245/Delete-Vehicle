@@ -5,3 +5,4 @@ Install:
 
 Command default:
  - dv(delete vehicle)
+ - cv(create vehicle)
